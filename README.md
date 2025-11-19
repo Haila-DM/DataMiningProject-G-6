@@ -77,3 +77,15 @@ The project includes several insightful visualizations:
 - Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
+
+- ## 👨‍💻 Authors
+| Name        | ID_NO  |
+|--------------|--------|
+| Haile Demewoz   | 4022  |
+| Meckyias Adefris | 1388  |
+| Mekuria  Belete  | 1431  |
+| Tigist Getnet  | 1394  |
+| Mekilit Tadess   | 1104  |
+| Kalkidan Cheru  | 1514  |
+
+                             Submission date 23/03/2018 E.C.
