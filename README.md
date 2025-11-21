@@ -88,4 +88,4 @@ The project includes several insightful visualizations:
 | Mekilit Tadess   | 1104  |
 | Kalkidan Cheru  | 1514  |
 
-                             Submission date 23/03/2018 E.C.
+Submission date 23/03/2018 E.C.
